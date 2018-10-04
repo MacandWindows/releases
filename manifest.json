@@ -1,0 +1,85 @@
+{
+  "files": {
+    "Frameworks/Cg.framework/Cg": {
+      "distributions": [
+        "darwin"
+      ],
+      "sha384": "ac72679d3d2a43a4b6e9069522f8ef83439e6eb5b43ddfb8eda2574c34e977d80a2a685bf9e5de6212753a4d12841000",
+      "size": 40936976
+    },
+    "cg.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "2d2717039597de0bf48814adee90a2b8acfd9dab29f37a64bf948fb55fcf9ca78fb05f9222273165e23c5ca2ab874d21",
+      "size": 8531264
+    },
+    "cgGL.dll": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "bc8145c47d3ca6965ce5192e2ad7e6e72626dd8c3be96aa9307569361f30345b7b1124fb1d092c0addb3820b53a38a78",
+      "size": 359232
+    },
+    "resources/default/phase_10.mf": {
+      "size": 1797949
+    },
+    "resources/default/phase_11.mf": {
+      "size": 4113047
+    },
+    "resources/default/phase_12.mf": {
+      "size": 10829392
+    },
+    "resources/default/phase_13.mf": {
+      "size": 12652570
+    },
+    "resources/default/phase_3.5.mf": {
+      "size": 18651380
+    },
+    "resources/default/phase_3.mf": {
+      "size": 47048066
+    },
+    "resources/default/phase_4.mf": {
+      "size": 52137846
+    },
+    "resources/default/phase_5.5.mf": {
+      "size": 8036157
+    },
+    "resources/default/phase_5.mf": {
+      "size": 50104710
+    },
+    "resources/default/phase_6.mf": {
+      "size": 43854752
+    },
+    "resources/default/phase_7.mf": {
+      "size": 6281286
+    },
+    "resources/default/phase_8.mf": {
+      "size": 31946505
+    },
+    "resources/default/phase_9.mf": {
+      "size": 14049341
+    },
+    "tooniversal.bin": {
+      "sha384": "8efa5c7d1e93effee8c2b735d4cd1fa98a6186bb82cbfa12a1957b9250f119920c378be3ee8a1bf9f355fd93d76713fc",
+      "size": 17647667
+    },
+    "tooniversal.exe": {
+      "distributions": [
+        "win32"
+      ],
+      "sha384": "70b995b09445783b30b812498049f438270766262432d5dc83f4f28794dd24ccb4807fc26db95704efbdb7ec7f880a87",
+      "size": 24176640
+    }
+  },
+  "launcherVersions": {
+    "darwin": "1.0.0",
+    "linux2": "1.0.0",
+    "win32": "1.0.0"
+  },
+  "outdatedMessage": {
+    "link": "https://tooniversal.com",
+    "message": "Your Tooniversal launcher is out of date. Please redownload the latest launcher from our website!"
+  },
+  "removedFiles": []
+}
