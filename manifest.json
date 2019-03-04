@@ -64,15 +64,15 @@
       "size": 14167418
     },
     "tooniversal.bin": {
-      "sha384": "0292a98198d9e3090a588922a5946bc549d25579e99881f557a4a15bf99533e54c781825b17e31bbdb141d5bb8b41dbe",
-      "size": 18322636
+      "sha384": "dc48a85ffdd14a8da492b8bd4691085d975fff5ee01c50b28838dd43d05cf9af788f506792716a87a1174f3b07be9188",
+      "size": 18326540
     },
     "tooniversal.exe": {
       "distributions": [
         "win32"
       ],
-      "sha384": "1efa61dbc7a930ad774c1a7f3d6b138e4fc55aa219400e77451790e73b3e0a6a8cee0d69e40624bd634abe9853ac7898",
-      "size": 6832144
+      "sha384": "3fffa61d91ffe3446c7d2da08f3353b302e3e648c92030efe291edb6a820e29639d2de24855285ebf36bde32b818aa2b",
+      "size": 7059984
     },
     "tooniversal_darwin": {
       "distributions": [
