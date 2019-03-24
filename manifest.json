@@ -25,10 +25,10 @@
       "size": 1799996
     },
     "resources/default/phase_11.mf": {
-      "size": 4110264
+      "size": 2936427
     },
     "resources/default/phase_12.mf": {
-      "size": 10831439
+      "size": 7444720
     },
     "resources/default/phase_13.mf": {
       "size": 12654617
@@ -37,13 +37,13 @@
       "size": 5760759
     },
     "resources/default/phase_3.5.mf": {
-      "size": 20315997
+      "size": 21910935
     },
     "resources/default/phase_3.mf": {
-      "size": 48386919
+      "size": 49509255
     },
     "resources/default/phase_4.mf": {
-      "size": 53886842
+      "size": 58431357
     },
     "resources/default/phase_5.5.mf": {
       "size": 9846688
@@ -52,20 +52,20 @@
       "size": 50496334
     },
     "resources/default/phase_6.mf": {
-      "size": 43706482
+      "size": 36657317
     },
     "resources/default/phase_7.mf": {
-      "size": 6283333
+      "size": 3206555
     },
     "resources/default/phase_8.mf": {
-      "size": 29367063
+      "size": 21944100
     },
     "resources/default/phase_9.mf": {
-      "size": 14167418
+      "size": 11849330
     },
     "tooniversal.bin": {
-      "sha384": "9d52143c0b0f0bc92eeb640a6500fcf2b6603e496b28875d68501d47e157b3234c787db553d1e19a1c8faf66e64ac244",
-      "size": 18374204
+      "sha384": "a42106165397d6d4aaadfc8a475d9c8d4be8f4d370e728e8867989f062e46623249ea5dcd76c29ece41b233b1d68b101",
+      "size": 18388364
     },
     "tooniversal.exe": {
       "distributions": [
