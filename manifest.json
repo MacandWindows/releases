@@ -64,7 +64,7 @@
       "size": 11849330
     },
     "tooniversal.bin": {
-      "sha384": "375a24fbba675d7ff204112b12d4060992503fe25a89b6cfc9fb277588a57e46b0f015ff9bc60ce93976bb981ec9b412",
+      "sha384": "3ce57eaf18de83906bb03ff6eee4c9ef56cbb72c7dc65899e3bb1ed67224b94dc4d6acfc1d3acddccc155827262872da",
       "size": 19021340
     },
     "tooniversal.exe": {
@@ -83,8 +83,8 @@
     }
   },
   "launcherVersions": {
-    "darwin": "1.0.0",
-    "linux2": "1.0.0",
+    "darwin": "1.1.0",
+    "linux": "1.1.0",
     "win32": "1.1.0"
   },
   "outdatedMessage": {
